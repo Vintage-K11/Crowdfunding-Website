@@ -1,0 +1,20 @@
+navigation
+logo        home-Entities-Services-about        signup-theme
+
+section 1
+main home page
+
+section 2
+what's crowdfunding             
+
+section 3
+types of expertise we provide       slider
+
+secton 4
+types of services we provide        card hovering
+
+section 5
+join us                             mini template
+
+section 6
+footer
